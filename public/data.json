@@ -1,0 +1,92 @@
+[
+    {
+        "id" : 1,
+        "name" : "Abu Saleh",
+        "address" : "Dhaka, Bangladesh",
+        "joinDate" : "22 July, 2022",
+        "social": {
+            "facebook" : "",
+            "instagram": "",
+            "linkedin" : "",
+            "twitter" : ""
+        },
+        "followers" : "120",
+        "category" : "Fashion",
+        "gender" : "Male"
+    },
+    {
+        "id" : 2,
+        "name" : "Abu Malek",
+        "address" : "Dhaka, Bangladesh",
+        "joinDate" : "22 July, 2022",
+        "social": {
+            "facebook" : "",
+            "instagram": "",
+            "linkedin" : "",
+            "twitter" : ""
+        },
+        "followers" : "150",
+        "category" : "Fashion",
+        "gender" : "Male"
+    },
+    {
+        "id" : 3,
+        "name" : "Abudul Based",
+        "address" : "Dhaka, Bangladesh",
+        "joinDate" : "22 July, 2022",
+        "social": {
+            "facebook" : "",
+            "instagram": "",
+            "linkedin" : "",
+            "twitter" : ""
+        },
+        "followers" : "50",
+        "category" : "Fashion",
+        "gender" : "Male"
+    },
+    {
+        "id" : 4,
+        "name" : "Abudul Sattar",
+        "address" : "Dhaka, Bangladesh",
+        "joinDate" : "22 July, 2022",
+        "social": {
+            "facebook" : "",
+            "instagram": "",
+            "linkedin" : "",
+            "twitter" : ""
+        },
+        "followers" : "750",
+        "category" : "Fashion",
+        "gender" : "Male"
+    },
+    {
+        "id" : 5,
+        "name" : "Abudul Motaleb",
+        "address" : "Dhaka, Bangladesh",
+        "joinDate" : "22 July, 2022",
+        "social": {
+            "facebook" : "",
+            "instagram": "",
+            "linkedin" : "",
+            "twitter" : ""
+        },
+        "followers" : "850",
+        "category" : "Fashion",
+        "gender" : "Male"
+    },
+    {
+        "id" : 6,
+        "name" : "Abudul Motaleb",
+        "address" : "Dhaka, Bangladesh",
+        "joinDate" : "22 July, 2022",
+        "social": {
+            "facebook" : "",
+            "instagram": "",
+            "linkedin" : "",
+            "twitter" : ""
+        },
+        "followers" : "850",
+        "category" : "Fashion",
+        "gender" : "Male"
+    }
+]
